@@ -1,7 +1,7 @@
 {
   "name": "endzonereact",
   "version": "0.1.0",
-  "homepage": "https://rahm-0x.github.io/EndZoneDice",
+  "homepage": "https://rahm-0x.github.io/EndzoneDice",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
